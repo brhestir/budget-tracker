@@ -117,7 +117,6 @@ function sendTransaction(isAdding) {
     method: "POST",
     body: JSON.stringify(transaction),
     headers: {
-      Accept: "application/json, text/plain, */*",
       "Content-Type": "application/json"
     }
   })
@@ -135,10 +134,10 @@ function sendTransaction(isAdding) {
     }
   })
   .catch(err => {
-    // fetch failed, so save in indexed db
+    // we caught an error, so save in indexed db
     saveRecord(transaction);
 
-    // clear form
+    
     nameEl.value = "";
     amountEl.value = "";
   });
@@ -152,9 +151,9 @@ document.querySelector("#sub-btn").onclick = function() {
   sendTransaction(false);
 };
 
-//-----------------------------------------------
 
-// create a new db request for a "budget" database.
+
+// create a new db request to communicate with the specified database.
 const request = indexedDB.open("budget", 1);
 
 request.onupgradeneeded = function(event) {

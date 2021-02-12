@@ -1,14 +1,14 @@
-# budget-tracker
+# transaction-store
 
-# ![https://github.com/brhestir/budget-tracker/blob/main/README.md](https://badgen.net/badge/budget/tracker/green?icon=github&scale=5)
+# ![https://github.com/brhestir/transaction-store/blob/main/README.md](https://badgen.net/badge/budget/tracker/green?icon=github&scale=5)
 
 Load/store financial transactions while offline or connected in the cloud.
 
-![https://github.com/brhestir/budget-tracker/blob/main/LICENSE](https://shields.io/github/license/brhestir/budget-tracker) ![GitHub top language](https://img.shields.io/github/languages/top/brhestir/budget-tracker)
+![https://github.com/brhestir/transaction-store/blob/main/LICENSE](https://shields.io/github/license/brhestir/transaction-store) ![GitHub top language](https://img.shields.io/github/languages/top/brhestir/transaction-store)
 
 ## Table of Contents
 
-- [budget-tracker](#budget-tracker)
+- [transaction-store](#transaction-store)
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -18,11 +18,11 @@ Load/store financial transactions while offline or connected in the cloud.
 
 ## Description
 
-![](./assets/images/budget-tracker.png)
+![](./assets/images/transaction-store.png)
 
 MongoDB cloud-based financial transaction log with summary charting and offline capability.
 
-[GitHub Repo](https://www.github.com/brhestir/budget-tracker)
+[GitHub Repo](https://www.github.com/brhestir/transaction-store)
 
 ## Installation
 
@@ -38,7 +38,7 @@ npm start
 
 ## Licence
 
-![https://github.com/brhestir/budget-tracker/blob/main/LICENSE](https://shields.io/github/license/brhestir/budget-tracker)
+![https://github.com/brhestir/transaction-store/blob/main/LICENSE](https://shields.io/github/license/brhestir/transaction-store)
 
 ## Contributing
 
