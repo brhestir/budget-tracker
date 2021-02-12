@@ -1,6 +1,6 @@
 {
   "name": "transaction-store",
-  "short_name": "transaction-store",
+  "short_name": "txn-store",
   "icons": [
     {
       "src": "icons/icon-192x192.png",

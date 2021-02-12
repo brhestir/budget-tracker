@@ -1,6 +1,6 @@
 # transaction-store
 
-# ![https://github.com/brhestir/transaction-store/blob/main/README.md](https://badgen.net/badge/budget/tracker/green?icon=github&scale=5)
+# ![https://github.com/brhestir/transaction-store/blob/main/README.md](https://badgen.net/badge/transaction/store/green?icon=github&scale=5)
 
 Load/store financial transactions while offline or connected in the cloud.
 
@@ -22,6 +22,7 @@ Load/store financial transactions while offline or connected in the cloud.
 
 MongoDB cloud-based financial transaction log with summary charting and offline capability.
 
+[Deployed Heroku Instance](https://quiet-coast-03759.herokuapp.com/)
 [GitHub Repo](https://www.github.com/brhestir/transaction-store)
 
 ## Installation
