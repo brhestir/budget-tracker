@@ -4,7 +4,7 @@
 
 Load/store financial transactions while offline or connected in the cloud.
 
-![https://github.com/brhestir/readme-tracker/blob/main/LICENSE](https://shields.io/github/license/brhestir/budget-tracker) ![GitHub top language](https://img.shields.io/github/languages/top/brhestir/budget-tracker)
+![https://github.com/brhestir/readme-tracker/blob/main/LICENSE](https://shields.io/mongo/license/brhestir/budget-tracker) ![GitHub top language](https://img.shields.io/github/languages/top/brhestir/budget-tracker)
 
 ## Table of Contents
 
